@@ -1,0 +1,35 @@
+﻿#foto{
+    width: 200px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transition: 0.5s;
+    margin: 2.5rem;
+}
+body{
+    background-color: #f8f9fa;
+}
+
+#dotnet-robot {
+    width: 150px;
+    margin-bottom: -2rem;
+
+}
+
+.seccion-bienvenida{
+    
+    color: #fff;
+    margin: 5rem 0 10rem 0;
+}
+
+.seccion-bienvenida h1{
+    font-size: 2rem;
+    font-family: Courier New, Courier, monospace;
+    margin: 0.5rem;
+}
+.seccion-bienvenida p{
+   
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    margin-top: 2rem;
+}
+
