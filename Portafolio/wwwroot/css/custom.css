@@ -1,4 +1,4 @@
-﻿#foto{
+﻿#foto {
     width: 200px;
     border-radius: 50%;
     border: 2px solid #fff;
@@ -6,30 +6,58 @@
     transition: 0.5s;
     margin: 2.5rem;
 }
-body{
+
+body {
     background-color: #f8f9fa;
 }
 
 #dotnet-robot {
     width: 150px;
     margin-bottom: -2rem;
-
 }
 
-.seccion-bienvenida{
-    
+.seccion-bienvenida {
     color: #fff;
     margin: 5rem 0 10rem 0;
 }
 
-.seccion-bienvenida h1{
-    font-size: 2rem;
-    font-family: Courier New, Courier, monospace;
-    margin: 0.5rem;
-}
-.seccion-bienvenida p{
-   
-    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
-    margin-top: 2rem;
+    .seccion-bienvenida h1 {
+        font-size: 2rem;
+        font-family: Courier New, Courier, monospace;
+        margin: 0.5rem;
+    }
+
+    .seccion-bienvenida p {
+        margin-top: 2rem;
+    }
+
+.habilidades ul {
+    list-style: none;
+    padding-left: 0;
 }
 
+.habilidades i {
+    color: #312e81;
+    font-size: 2.5rem;
+}
+
+.habilidades h3 {
+    font-size: 1.5rem;
+    margin: 0.5rem;
+}
+
+.habilidades p {
+    margin-top: 1rem;
+}
+
+.habilidades {
+    margin: 5rem 0;
+    padding: 2rem;
+}
+
+    .habilidades .cabecera {
+        margin-bottom: 2rem;
+        color: #312e81;
+        border-bottom: 2px solid #312e81;
+        font-weight: bold;
+    }
